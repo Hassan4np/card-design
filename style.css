@@ -1,0 +1,104 @@
+            header {
+                background-image: url("img/images\ \(3\).jpeg");
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                display: block;
+                object-fit: cover;
+            }
+            
+            header .style-item {
+                color: green;
+                margin: 10px;
+                border-radius: 1px;
+                transition: .4s;
+                padding: 5px;
+            }
+            
+            .para {
+                padding-top: 200PX;
+            }
+            
+            header .style-item:hover {
+                color: red;
+                background-color: indigo;
+                margin: 10px;
+                transform: scale(1.1);
+                border-radius: 2px;
+            }
+            
+            .hassan {
+                height: 100vh;
+            }
+            
+            nav {
+                background-color: #cccccc;
+            }
+            
+            .banner-item {
+                height: 100vh;
+            }
+            
+            .card {
+                border: 2px yellow solid;
+                transition: .4s;
+            }
+            
+            .card:hover {
+                transform: scale(1.1);
+            }
+            
+            main {
+                background-color: #00ffff;
+            }
+            
+            .hr-style {
+                border: 5px red dotted;
+                border-bottom: none;
+                width: 50px;
+            }
+            
+            .me a {
+                text-decoration: none;
+            }
+            
+            .me h1 {
+                font-size: 30px;
+                font-style: italic;
+            }
+            
+            .me a:hover {
+                text-decoration: underline;
+            }
+            
+            .body {
+                background-color: #ff7f50;
+            }
+            
+            .skill i {
+                color: black;
+                font-size: 20px;
+                font-size: large;
+            }
+            
+            form label {
+                color: white;
+                font-size: 20px;
+            }
+            
+            footer a {
+                margin-top: 20px;
+                padding: 5px;
+            }
+            
+            footer .m {
+                text-decoration: none;
+            }
+            
+            footer .m:hover {
+                text-decoration: underline;
+                color: red;
+                background-color: green;
+                border: 1px yellow solid;
+                border-radius: 5px;
+            }
